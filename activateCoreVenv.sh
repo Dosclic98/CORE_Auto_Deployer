@@ -1,0 +1,1 @@
+source /opt/core/venv/bin/activate
